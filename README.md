@@ -86,6 +86,7 @@ npm install
 ```bash
 npm run dev
 ```
+- to stop the server type (control + "c")
 
 ## 📈 Tracked Stocks
 
